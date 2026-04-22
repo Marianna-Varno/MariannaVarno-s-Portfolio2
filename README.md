@@ -1,6 +1,8 @@
 # CS108 Portfolio
 # Marianna Varno
-# My Portfolio
+<img src="img.png" width="280">
+
+### My Portfolio
 
 
 Contact Info: [mvarno@loyola.edu - 732-284-5275]
